@@ -1,0 +1,10 @@
+.detail-table {
+        background-color: rgb(248, 215, 228);
+        color: rgb(75, 58, 92);
+        margin: 3%;
+        padding: 1%;
+        font-family: Monaco;
+        font-size: 20px;
+        font-weight: bold;
+        border-radius: 10px;
+}
